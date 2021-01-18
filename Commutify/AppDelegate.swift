@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 		
 		FirebaseApp.configure()
 		
-		// Uncomment this each time database gets changed to create a reference to it.
+		// Uncomment this line each time database gets changed to create a reference to it.
 //		var ref: DatabaseReference!
 //		ref = Database.database().reference()
 		
