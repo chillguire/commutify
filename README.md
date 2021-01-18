@@ -4,4 +4,4 @@ Commutify was one of my firsts *big* iOS projects. It is an iOS app built primar
 ##### 🔨Technologies: Swift, UIKit, Firebase
 ##### 🚀Platform: 📱iOS
 
-![Hola](https://i.imgur.com/YlcVJaI.png)
+![Commutify](https://i.imgur.com/YlcVJaI.png)
